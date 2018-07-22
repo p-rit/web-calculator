@@ -1,1 +1,2 @@
-# web-calculator
+
+web calculator for integer
